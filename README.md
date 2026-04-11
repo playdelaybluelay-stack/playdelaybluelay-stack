@@ -3,13 +3,13 @@
 AWS 기반 멀티 리전 DR 아키텍처 설계부터 On-premises 가상화 인프라 구축까지,  
 비용·보안·가용성의 트레이드오프를 판단하고 실제 구축까지 수행합니다.
 
-메가존클라우드 MSP 솔루션 아키텍트 양성과정 수료 (7개월)
+메가존클라우드 MSP 솔루션 아키텍트 양성과정 수료 (2025.07 ~ 2026.02)
 
 ## Projects
 
-### 🛡️ [AWS Pilot-Light DR Architecture](https://github.com/playdelaybluelay-stack/aws-pilot-light-dr) — 팀 프로젝트
+### [AWS Pilot-Light DR Architecture](https://github.com/playdelaybluelay-stack/aws-pilot-light-dr)
 
-AWS 멀티 리전(서울-도쿄) 재해복구 아키텍처 | 보안·백업·DR 테스트 전담
+AWS 멀티 리전(서울-도쿄) 재해복구 아키텍처 | 5인 팀 프로젝트 | 보안·백업·DR 테스트 전담
 
 - RTO 15분 / RPO 5분 달성, Warm-Standby 대비 평시 비용 98% 절감
 - Terraform으로 2개 리전 50개 리소스 코드화, GitHub Actions 5개 워크플로우 자동화
@@ -17,7 +17,7 @@ AWS 멀티 리전(서울-도쿄) 재해복구 아키텍처 | 보안·백업·DR 
 
 `Terraform` `AWS` `GitHub Actions (OIDC)` `WAF` `StepFunctions` `Cognito`
 
-### 🏗️ [On-premises 3-Tier Architecture](https://github.com/playdelaybluelay-stack/helpdesk-backend) — 개인 프로젝트
+### [On-premises 3-Tier Architecture](https://github.com/playdelaybluelay-stack/helpdesk-backend)
 
 VMware 가상화 환경에서 고가용성 인프라 단독 설계·구축
 
@@ -42,4 +42,4 @@ VMware 가상화 환경에서 고가용성 인프라 단독 설계·구축
 ## Certifications
 
 - AWS Solutions Architect – Associate (SAA)
-- 정보처리기사 (실기 준비 중)
+- 정보처리기사 (필기 합격)
